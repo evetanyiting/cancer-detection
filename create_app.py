@@ -1,7 +1,6 @@
 import streamlit as st 
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
-!pip install streamlit
 import numpy as np
 import matplotlib.pyplot as plt
 #load model
